@@ -2,750 +2,16 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
    "ios_app_store_link":"",
    "sticker_packs":[
-   	  {
-         "identifier":"personajes16",
-         "name":"Stickers Personajes 16",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "tags":"television, chizito, dichos, diosito, humor, macri, gato, jacobo, mr bean, di caprio, scioli, mariana nanis, meme, colorado, bebe",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"16.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"17.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"18.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"19.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"20.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
       {
-         "identifier":"personajes15",
-         "name":"Stickers Personajes 15",
-         "publisher":"Astro Mobile",
+         "identifier":"dicky",
+         "name":"Pack Dicky del Solar",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"television, duki, dichos, bullrich, zapata, fernandez, bambino, enzo perez, lionel scaloni, alberto, humor, macri, gato",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"16.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"17.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"18.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"19.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"20.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"21.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"22.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"23.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"24.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"personajes14",
-         "name":"Stickers Personajes 14",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "tags":"television, dichos, susana, mirta, mirtha, pachano, nicole neuman, ramon, riverito, niembro, enano, zi senora, franco armani, marcelo tinelli, moria, mitre",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"16.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"17.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"18.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"personajes13",
-         "name":"Stickers Personajes 13",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "tags":"Juan Alberto Mateyco, Ricardo Centurion, Mauricio Macri, Diego Maradona, Sergio Kun Aguero, Mirtha Legrand, Brian Sarmiento, Leonardo Fariña, Adriana Aguirre, Aldo Rico, China Zorrilla, Esperando la Carroza, Guillermo Francella, Exterminator, Luis Maria Traverso, Enzo Perez, La Comadreja, Cristina fernandez, Tusam, Vistima, Aldo Rico, Rodolfo Barili",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"16.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"17.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"18.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"19.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"20.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"21.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"22.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"23.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"24.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"personajes12",
-         "name":"Stickers Personajes 12",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "tags":"Pichu Straneo, Elisa Carrio, Domingo Cavallo, Diego Maradona, Oficial Gordillo, Eduardo Duhalde, Ricardo Fort, Chimuelo, Raul Alfonsin, Peters, Galtieri, Coki Argento, Mauricio Macri, Anda a la cancha bobo, Carlos Menem, Martin Palermo",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"16.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"17.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"18.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"19.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"20.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"21.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"22.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"23.webp",
-               "emojis":[
-                  
-               ]
-            }
-         ]
-      },
-      {
-         "identifier":"personajes11",
-         "name":"Stickers Personajes 11",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "tags":"La Faraona, Mala Fama, Kiosquini, Migue Granados, Enano de boca, Tano Passman, Marcelo Gallardo, Olmedo, Mauricio Macri, Scorpions, Sol Perez, Milei, Carmen Barbieri, Capusotto, Pomelo, Bombita Rodriguez, Ricardo Darin, Cristina fernandez, Cristine Lagarde, Elisa Carrio",
+         "tags":"humor, youtuber",
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":false,
@@ -899,19 +165,49 @@
                "emojis":[
                   
                ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+                  
+               ]
             }
          ]
       },
       {
-         "identifier":"personajes10",
-         "name":"Stickers Personajes 10",
-         "publisher":"Astro Mobile",
+         "identifier":"kunaguero",
+         "name":"Pack Kun Aguero",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"Robertito Funes, Guillermo Francella, Quique Fellman, Eduardo Feinmann, Ivan De Pineda, La Faraona, Emanuel Ginobili, Lizzy Tagliani, Daniel Osvaldo, Guido Suller, Rodrigo Bueno, El potro, Diego Latorre, Charango, Lionel Messi, Mauricio Macri, 500 lucas, Juan Carlos Calabro, El contra, Gerardo Sofovich, Mercedes Ninci",
+         "tags":"humor, game, frases",
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":false,
@@ -1029,133 +325,9 @@
                "emojis":[
                   
                ]
-            }
-         ]
-      },
-      {
-         "identifier":"personajes1",
-         "name":"Stickers Personajes 1",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "tags":"Caruso Lombardi, Charly Garcia, Andy Kusnetzoff, Diego Maradona, Olmedo Manosanta, Eduardo Feinmann, Roberto Giordano, Mauricio Macri, Elisa Carrio, Papa Francisco, Zulma Lobato, Mariano Iudica, Jorge Samid, Guillermo Nimo, Luis D Elia, Ricardo Iorio, Pappo, Juan Roman Riquelme, Luis Ventura, No me midas, Say no more, Podemos hablar, Tortuga, Charuto, Gato, trabajo honesto",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "isAnimated":false,
-         "stickers":[
-            {
-               "image_file":"1.webp",
-               "emojis":[
-                  
-               ]
             },
             {
-               "image_file":"2.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"3.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"4.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"5.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"6.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"7.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"8.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"9.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"12.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"13.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"16.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"17.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"18.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"19.webp",
+               "image_file":"20.webp",
                "emojis":[
                   
                ]
@@ -1177,29 +349,29 @@
                "emojis":[
                   
                ]
-            },
-            {
-               "image_file":"24.webp",
-               "emojis":[
-                  
-               ]
             }
          ]
       },
       {
-         "identifier":"personajes2",
-         "name":"Stickers Personajes 2",
-         "publisher":"Astro Mobile",
+         "identifier":"amongus",
+         "name":"Pack Among Us",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"Carlitos Bala, El chavo del 8, Cristina Fernandez, Santiago Del Moro, Diego Maradona, Alejandro Fantino, Ricardo Fort, Mirtha Legrand, Moria Casan, Nestor Kirchner, Horacio Pagani, Ramon Diaz, Susana Gimenez, El Demente, El Bananero, La tenes adentro, Nerviosho, Mierda, Carajo",
+         "tags":"humor, game",
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":false,
          "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
             {
                "image_file":"2.webp",
                "emojis":[
@@ -1337,19 +509,55 @@
                "emojis":[
                   
                ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+                  
+               ]
             }
          ]
       },
       {
-         "identifier":"personajes3",
-         "name":"Stickers Personajes 3",
+         "identifier":"luchetti",
+         "name":"Pack Luchetti",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"Amigacho, Marcelo Benedetto, Capusotto, Ernesto Che Guevara, Cristina Fernandez, Fernando de la Rua, Guillermo Francella, Enrique el Antiguo, Ricardo Fort, Wanda Nara, Maria Elena Fuseneco, Diego Maradona, Carlos Menem, Micky Vainilla, Mirtha Legrand, Mona Jimenez, Moni Argento, Pepe Argento, Marcelo Polino, Sebastian Pollo Vignolo, Daniel Scioli, Sebastian Presta, Prestico, Primo Coco Sili, Ivo Kutzarida, Carlos Tevez, Mauricio Macri, No la pongo, Hasta la victoria, Vos lo votaste, Aburrido, Cachando, cafecito, cantalo, vino, very dificult",
+         "tags":"humor, television",
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":false,
@@ -1501,15 +709,15 @@
          ]
       },
       {
-         "identifier":"personajes4",
-         "name":"Stickers Personajes 4",
+         "identifier":"iorio",
+         "name":"Pack Ricardo Iorio",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"Ininputable, Faso, Capusotto, Guillermo Francella, a comerla, es una nena, te quiero, Antonio Gasalla, Yegua, La abuela, Carlos Gardel, Carlos Balá, Angueto, Juan Carlos Calabro, Topo Gigio, Emilio Disi, Lechonas, Minguito, Juan Carlos Altavista, Paolo Rockero, Sebastian Presta, Prestico, China Zorrilla, Puchero, Esperando la Carroza, Luis Brandoni, Tres empanadas, Los Simuladores",
+         "tags":"humor, television, frases",
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":false,
@@ -1636,24 +844,6 @@
             },
             {
                "image_file":"21.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"22.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"23.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"24.webp",
                "emojis":[
                   
                ]
@@ -1661,15 +851,15 @@
          ]
       },
       {
-         "identifier":"personajes5",
-         "name":"Stickers Personajes 5",
+         "identifier":"rickyfort",
+         "name":"Pack Ricardo Fort",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"Tano Passman, Juan Perugia, Gaston Pauls, Daniel Passarella, Oriana Junco, Jose Maria Listorti, Cogote, Capusotto, Bija, Luis Barrionuevo, Alto guiso, Candela, Martin Liberman, Gigolo, Traeme la copa, Peters, Chano, Cacho Castaña, Jacobo Winograd, Karina Jelinek, Vicky Xipolitakis, Jorge Rial, Masomeno, Alex Caniggia, Ricardo Canaletti",
+         "tags":"humor, television, ricky",
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":false,
@@ -1814,6 +1004,42 @@
             },
             {
                "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"30.webp",
                "emojis":[
                   
                ]
@@ -1821,15 +1047,15 @@
          ]
       },
       {
-         "identifier":"personajes6",
-         "name":"Stickers Personajes 6",
+         "identifier":"sincodificar",
+         "name":"Pack Sin Codificar",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"Bambino Veira, Marcelo Tinelli, Roberto Galan, Riverito, Ricardo Darin, Mirtha Legrand, Isabel Coca Sarli, Saca la foto, cruzar los dedos, tormenta de facha, Carlos Carlin Calvo, Tato Bores, Guillermo Francella, Tana Ferro, Un novio para mi mujer, Valeria Bertucceli, Jacobo Winograd, Gabriel Schultz, Fabio Alberti, boluda total, Cayetano, Atiendo boludos, Mauro Icardi",
+         "tags":"humor, television, telefe",
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":false,
@@ -1974,6 +1200,42 @@
             },
             {
                "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"30.webp",
                "emojis":[
                   
                ]
@@ -1981,15 +1243,15 @@
          ]
       },
       {
-         "identifier":"personajes7",
-         "name":"Stickers Personajes 7",
+         "identifier":"bakeoff2",
+         "name":"Pack Bake Off (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"Guillermo Francella, Cristina Fernandez, Pichu Straneo, Yayo, Carlos Menem, Pepe Mujica, Rebos, Chinwenwencha, Diego Maradona, Mauricio Macri, Tangalanga, Leonardo Farina, Carlos Menem, Aldo Rico, Javier Mascherano, Juan Manuel Fangio, Marcelo Benedetto, Sebastian Pollo Vignolo, Jose Luis Chilavert, Guido Kaczka, Mirtha Legrand, Matias Martin",
+         "tags":"pastelero, television, telefe",
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":false,
@@ -2134,6 +1396,30 @@
             },
             {
                "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
                "emojis":[
                   
                ]
@@ -2141,15 +1427,15 @@
          ]
       },
       {
-         "identifier":"personajes8",
-         "name":"Stickers Personajes 8",
+         "identifier":"faceapp1",
+         "name":"Pack FaceApp",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"Capusotto, altas llantas, Gustavo Cordera, Leo rompe pepe, Ari Paluch, Walter Nelson, Wachiturros, Ricardo Conchita Barreda, Juan Darthes, China, La Faraona, Abel Pinto, Mono Mario, Diego Maradona, Fito Paez, a comerla, A lo tuyo, eia, El Marginal, El Pantera, Diosito, El Sapo, Marito Borges, El Cuis",
+         "tags":"face, famosos, humor",
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":false,
@@ -2294,6 +1580,24 @@
             },
             {
                "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
                "emojis":[
                   
                ]
@@ -2301,15 +1605,15 @@
          ]
       },
       {
-         "identifier":"personajes9",
-         "name":"Stickers Personajes 9",
+         "identifier":"bakeoff1",
+         "name":"Pack Bake Off 2020",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"Oscar Ruggeri, 90 minutos, Marcelo Bielsa, El Marginal, Brian Bulei, Colombiano, El demente, Alfredo Casero, Flan, wachin, Mauricio Macri, Gato, No de nuevo, Serafin Dengra, Serafo, Never Pony, Pura sangre, Miss Bolivia, tomate el palo, Rocio Marengo, Hector Alterio, Silvio Soldan, Nazarena Velez, Me chupa un huevo, Lombardo, El Puntero, Pepo, Negro Alvarez, Paulo Londra, Jonnhy Allon, Silva",
+         "tags":"pastelero, television, telefe",
          "image_data_version":"1",
          "avoid_cache":false,
          "isAnimated":false,
@@ -2454,6 +1758,42 @@
             },
             {
                "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"30.webp",
                "emojis":[
                   
                ]
