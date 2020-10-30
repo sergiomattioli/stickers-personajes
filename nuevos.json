@@ -5,13 +5,16 @@
       {
          "identifier":"maradona2",
          "name":"Pack Maradona 2",
-         "publisher":"Astro Mobile",
+         "publisher":"Astro Mobile Soft",
          "tray_image_file":"tray.png",
          "publisher_website":"",
          "publisher_email":"astro.mobile.soft@gmail.com",
          "privacy_policy_website":"",
          "license_agreement_website":"",
-         "tags":"diez, diego, jugador, seleccion",
+         "tags":"humor, youtuber",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
          "stickers":[
             {
                "image_file":"1.webp",
