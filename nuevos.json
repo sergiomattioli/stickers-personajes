@@ -2,7 +2,7 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
    "ios_app_store_link":"",
    "sticker_packs":[
-   	  {
+      {
          "identifier":"maradona5",
          "name":"Reacciones Maradona 2",
          "publisher":"Astro Mobile Soft",
@@ -198,7 +198,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"maradona4",
          "name":"Reacciones Maradona 1",
          "publisher":"Astro Mobile Soft",
