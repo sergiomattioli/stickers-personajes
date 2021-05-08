@@ -2,7 +2,94 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.personajes",
    "ios_app_store_link":"",
    "sticker_packs":[
-   	{
+      {
+         "identifier":"larreta1",
+         "name":"Larreta",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"albertofernandez1",
          "name":"Alberto Fernandez",
          "publisher":"Astro Mobile",
@@ -621,7 +708,7 @@
             }
          ]
       },
-   	{
+      {
          "identifier":"benditatv2",
          "name":"Bendita Tv (2)",
          "publisher":"Astro Mobile Soft",
@@ -839,7 +926,7 @@
             }
          ]
       },
-   	{
+      {
          "identifier":"pepeargento2",
          "name":"Pepe Argento 2",
          "publisher":"Astro Mobile Soft",
@@ -1045,7 +1132,7 @@
             }
          ]
       },
-   	{
+      {
          "identifier":"masterchef2021a",
          "name":"Masterchef 2021",
          "publisher":"Astro Mobile Soft",
