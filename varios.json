@@ -4,7 +4,7 @@
    "sticker_packs":[
       {
          "identifier":"anonuevo22",
-         "name":"Pack Feliz 2022",
+         "name":"Pack Feliz Año (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -98,7 +98,7 @@
       },
       {
          "identifier":"anonuevo21",
-         "name":"Pack Feliz 2021",
+         "name":"Pack Feliz Año (1)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -190,60 +190,6 @@
             },
             {
                "image_file":"14.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"15.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"16.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"17.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"18.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"19.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"20.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"21.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"22.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"23.webp",
                "emojis":[
                   
                ]
